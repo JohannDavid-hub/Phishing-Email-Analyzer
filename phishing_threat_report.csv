@@ -1,0 +1,4 @@
+Timestamp,Source_Label,Sender,Subject,Verdict,Risk_Score,Domain_Alert,Regex_Triggers,Urgency_Score,Correlated_Signatures
+2026-10-08 11:37:05,My Real Email Test,HR Team <hr@raffoenterprise.com>,Final Chance to Connect! Don't Miss Out!,🟢 CLEAN / LOW RISK,0,None,None,0,None
+2026-10-08 11:37:05,Sample #1 (Lookalike Domain Test),Security Team <alerts@service-g00gle.com>,URGENT: Account verification required,🔴 HIGH RISK PHISHING,190,None,verify; account; 24 hours; login; urgent; suspend; click here; https://verify-login-portal.com,3,SIGNATURE-02: Multiple Character Substitutions / Patterns with Embedded Link; SIGNATURE-03: High Coercion / Stress-Inducing Tone Detected
+2026-10-08 11:37:05,Sample #2 (Legitimate Research Email),Research Desk <research@cfr.org>,Weekly Global Cyber Policy Digest,🟢 CLEAN / LOW RISK,0,None,None,0,None

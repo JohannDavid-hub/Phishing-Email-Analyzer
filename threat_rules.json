@@ -1,0 +1,16 @@
+{
+  "trusted_domains": [
+    "cfr.org",
+    "csis.org",
+    "google.com",
+    "paypal.com",
+    "microsoft.com",
+    "state.gov"
+  ],
+  "suspicious_regex_patterns": [
+    "(?:v[e3]rify|p[a@]ss|l[0o]g[i1]n|acc[0o]unt|s[u1]spend)",
+    "https?://[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}",
+    "click\\s+(?:here|now|below|link)",
+    "(?:urgent|immediate|action\\s+required|24\\s+hours|penalty)"
+  ]
+}
